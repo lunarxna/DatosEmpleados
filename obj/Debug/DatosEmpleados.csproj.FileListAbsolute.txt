@@ -1,0 +1,11 @@
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\bin\Debug\DatosEmpleados.exe.config
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\bin\Debug\DatosEmpleados.exe
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\bin\Debug\DatosEmpleados.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.csproj.AssemblyReference.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.Form1.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.Properties.Resources.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.csproj.GenerateResource.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.exe
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Arch,Texto y validaciones\DatosEmpleados\obj\Debug\DatosEmpleados.exe.config
